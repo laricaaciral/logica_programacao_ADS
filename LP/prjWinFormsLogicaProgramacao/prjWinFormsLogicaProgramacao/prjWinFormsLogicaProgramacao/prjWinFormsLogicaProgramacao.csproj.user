@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DescontoProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCalculoIRPF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClassificacaoNadador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClassificacaoTriangulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDobroNumero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMaiorTresNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMediaTresNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMetadeNumero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNumeroParImpar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQuintaParte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSextuploNumero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIParentFrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

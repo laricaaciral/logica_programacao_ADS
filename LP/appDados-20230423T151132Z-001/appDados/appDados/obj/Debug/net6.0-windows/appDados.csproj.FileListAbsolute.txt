@@ -1,0 +1,34 @@
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\bin\Debug\net6.0-windows\appDados.exe
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\bin\Debug\net6.0-windows\appDados.deps.json
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\bin\Debug\net6.0-windows\appDados.runtimeconfig.json
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\bin\Debug\net6.0-windows\appDados.dll
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\bin\Debug\net6.0-windows\appDados.pdb
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.AssemblyReference.cache
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.Form1.resources
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.GenerateResource.cache
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.AssemblyInfoInputs.cache
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.AssemblyInfo.cs
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.CoreCompileInputs.cache
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.dll
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\refint\appDados.dll
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.pdb
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\appDados.genruntimeconfig.cache
+C:\Users\pedrosupimpa\source\repos\appDados\appDados\obj\Debug\net6.0-windows\ref\appDados.dll
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\bin\Debug\net6.0-windows\appDados.exe
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\bin\Debug\net6.0-windows\appDados.deps.json
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\bin\Debug\net6.0-windows\appDados.runtimeconfig.json
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\bin\Debug\net6.0-windows\appDados.dll
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\bin\Debug\net6.0-windows\appDados.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.Form1.resources
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.dll
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\refint\appDados.dll
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\appDados.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Área de Trabalho\pc larissa\ADS\LP\appDados-20230423T151132Z-001\appDados\appDados\obj\Debug\net6.0-windows\ref\appDados.dll
